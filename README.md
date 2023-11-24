@@ -1,7 +1,6 @@
 Number Checker and Joke Generator
 Overview
 The "Number Checker and Joke Generator" is a simple web application designed to provide a fun and interactive user experience. It allows users to enter a number, checks whether the number is odd or even, and displays a random joke. This project is built using HTML, CSS (Bootstrap), and JavaScript.
-
 Features
 Number Checker: Users can input a number, and the application will display whether it's odd or even.
 Joke Generator: Independently of the number input, the application fetches a random joke from an external API (icanhazdadjoke.com) and displays it to the user.
