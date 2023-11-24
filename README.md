@@ -19,6 +19,7 @@ Use the Application:
 
 
 The application will display whether the entered number is odd or even, and a random joke will appear below.
+
 Dependencies :
   - Bootstrap (4.5.2) for styling (linked via CDN in the HTML file).
   - A modern web browser with JavaScript enabled.
