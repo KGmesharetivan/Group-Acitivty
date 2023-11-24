@@ -16,7 +16,9 @@ Open the Web Page: Open the index.html file in a web browser.
 Use the Application:
   - Enter a number in the provided input field.
   - Click on the "Check and Get Joke" button.
+
+
 The application will display whether the entered number is odd or even, and a random joke will appear below.
-Dependencies
-Bootstrap (4.5.2) for styling (linked via CDN in the HTML file).
-A modern web browser with JavaScript enabled.
+Dependencies :
+  - Bootstrap (4.5.2) for styling (linked via CDN in the HTML file).
+  - A modern web browser with JavaScript enabled.
